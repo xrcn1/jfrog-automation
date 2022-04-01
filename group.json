@@ -1,0 +1,10 @@
+{
+ "name": "<group-name>",
+ "description" : "<group description>",
+ "autoJoin" : false,
+ "adminPrivileges" : false,
+ "watchManager": false,
+ "policyManager": false,
+ "reportsManager": false,
+ "userNames" : [ "<email-1>","<email-2>","<email-and-so-on>" ]
+}
